@@ -1,2 +1,2 @@
 # algorithm
-this is the code for data struct algorithm  
+数据结构练习代码
